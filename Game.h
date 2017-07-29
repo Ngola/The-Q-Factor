@@ -108,7 +108,7 @@ class Game{
     
     void Welcome(){
         FormatLines();
-        std::cout<<"Welcome to The Q Factor, an \"open-souce\" program by Leo Neto."<<std::endl;
+        std::cout<<"Welcome to The Q Factor, an \"open-sauce\" program by Leo Neto."<<std::endl;
         FormatLines();
         EmptySpace();
     }//end Welcome
